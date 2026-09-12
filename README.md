@@ -9,7 +9,7 @@
 ### 🎓 About Me
 
 - 🌱 Currently pursuing a **B.Tech in AI and Data Science** at **KMCT College of Engineering for Emerging Technologies and Management, Perinthalmanna**
-- -- 🪖 **National Cadet Corps (NCC) Cadet** (First Year, Junior Division) — actively undergoing training in discipline, leadership, and national service
+-  🪖 **National Cadet Corps (NCC) Cadet** (First Year, Junior Division) — actively undergoing training in discipline, leadership, and national service
 - 🖥️ Completed my **Higher Secondary Education in Computer Science** at **GBHSS Manjeri**
 - 👮 **Student Police Cadet (SPC) Alumnus** (Secondary Level) — trained in discipline, civic responsibility, and community service
 - 🤝 **NSS Alumnus** — completed **2 years of volunteer service** at the Higher Secondary level, contributing to social and community initiatives
